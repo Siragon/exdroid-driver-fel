@@ -63,8 +63,23 @@ method makes bootloader enter in fel mode after initializing everything.
 If you are getting error 'libusb usb\_bulk+send error -7', then use home
 + power method.
 
-Sunxi: Community portal Available from <http://linux-sunxi.org/FEL>
+Logging Installation Information and Error Messages
+--------------
+
+DPInst logs high-level installation information and error messages in a log file (%SystemRoot%\DPINST.LOG).<br />
+The DPInst log file is a plain-text file that you can use to troubleshoot DPInst driver installation.
+
+---
+
+Sunxi: Community portal.<br />
+Available from <http://linux-sunxi.org/FEL><br />
 Under: <http://creativecommons.org/licenses/by/3.0/>
+
+Windows - Dev Center - Hardware. <br />
+Available from <http://msdn.microsoft.com/en-us/library/windows/hardware/ff548674%28v=vs.85%29.aspx><br />
+Under: <http://msdn.microsoft.com/en-US/windows/apps/cc300389>
+
+
 
   [LiveSuit]: LiveSuit "wikilink"
   [cubieboard]: cubieboard "wikilink"
