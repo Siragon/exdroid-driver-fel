@@ -1,6 +1,6 @@
 # built application files
-*.apk
-*.ap_
+TB-7000_FEL.7z
+TB-7000_FEL.exe
 
 # files for the dex VM
 *.dex
@@ -27,3 +27,4 @@ proguard/
 *.ipr
 *.iws
 .idea/
+

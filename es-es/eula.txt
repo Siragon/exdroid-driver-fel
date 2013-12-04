@@ -1,0 +1,134 @@
+Este es el contrato de licencia del Kit de desarrollo de software de Android.
+
+1. Introducción
+
+1.1 El Kit de desarrollo de Software de Android (se refiere al presente Acuerdo de licencia para el "SDK"  y  específicamente  incluyendo los archivos del sistema de Android, así como el  empaquetado de APIs y los complementos de Google APIs).  esta autorizado con sujeción a los términos de este Acuerdo de Licencia.  Este Contrato de Licencia constituye un contrato legalmente vinculante entre usted y Google en relación con su uso del SDK.
+
+1.2 "Google" significa Google Inc., una corporación de Delaware con sede principal en 1600 Amphitheatre Parkway, Mountain View, CA 94043, Estados Unidos.
+
+2. Aceptando este Contrato de Licencia 
+
+2.1 Para utilizar el SDK, debe estar de acuerdo con este Contrato de Licencia. Usted no puede usar el SDK si usted no acepta esta Licencia.
+
+2.2 Usted puede aceptar este Contrato de Licencia por Síragon:
+
+(A) hacer clic para aceptar o estar de acuerdo con este Contrato de Licencia, Si esta opción este disponible para usted; ó
+
+(B) Incluso utilizando el SDK, en este caso,  usted está de acuerdo que el uso del SDK constituye la aceptación del Contrato de Licencia a partir de este punto
+
+2.3 Usted no debe usar el SDK y no debe aceptar el Contrato de licencia, si usted tiene un impedimento para recibir el SDK bajo las leyes de los Estados Unidos ó en otros países, incluyendo el país en cual usted reside o de cual usted utiliza el SDK.
+
+2.4 Si usted está de acuerdo para estar comprometido con este Contrato de Licencia en nombre de su empresa u otra entidad, usted representa y garantiza que tiene la autoridad legal para unir a su empresa o entidad a este Contrato de Licencia. Si usted no tiene la autoridad necesaria, no puede aceptar el Contrato de licencia o utilizar el SDK en nombre de su empresa u otra entidad
+
+3. Licencia del SDK de Google
+
+3.1 Sujeto a los términos de este Acuerdo de licencia, Google le otorga una licencia limitada, mundial, libre de regalías, no transferible y no exclusiva para usar el SDK únicamente para desarrollar aplicaciones que se ejecuten en la plataforma Android.
+
+3.2 El usuario acepta que Google o terceros son los propietarios de todos los derechos, títulos e intereses sobre y para el SDK, incluyendo los derechos de propiedad intelectual que actúen sobre el SDK. "Los derechos de propiedad intelectual" significa cualquier y todos los derechos bajo la ley de patentes, de copyright, de secretos comerciales, derecho de marcas, y todos y cada uno de otros derechos de propietarios. Google se reserva todos los derechos no expresamente concedidos a usted.
+
+3.3 Salvo en la medida requerida por la aplicación licencia de terceros, usted no puede copiar (excepto con fines de copia de seguridad), modificar, adaptar, distribuir, descompilar, realizar ingeniería inversa, desensamblar o crear trabajos derivados del SDK o cualquier parte del SDK. Salvo en la medida requerida por la aplicación licencia de terceros, no podrá cargar cualquier parte del SDK en un teléfono móvil o cualquier otro dispositivo de hardware excepto un ordenador personal, combinar cualquier parte del SDK con otros programas o distribuir cualquier software o dispositivo la incorporación de una parte del SDK.
+
+3.4 El uso, la reproducción y la distribución de los componentes del SDK disponible bajo una licencia de software de código abierto se rigen únicamente por los términos de dicha licencia de software de código abierto y no este Acuerdo de Licencia.
+
+3.5 Usted acepta que la forma y la naturaleza de la SDK que proporciona Google pueden cambiar sin previo aviso y que las futuras versiones del SDK puede ser incompatibles con las aplicaciones desarrolladas sobre las versiones anteriores del SDK. Usted acepta que Google podrá suspender (permanente o temporal) la prestación del SDK (o de cualquier función dentro de la SDK) a Usted o a los usuarios en general, a discreción de Google y sin previo aviso.
+
+3.6 Nada en este Acuerdo de licencia le otorga el derecho a usar los nombres comerciales de Google, marcas comerciales, marcas de servicio, logotipos, nombres de dominio u otras características distintivas de la marca.
+
+3.7 Usted se compromete a no eliminar, ocultar ni alterar los avisos de derechos de propiedad (incluyendo los avisos de copyright y marcas comerciales) que pueden estar adheridos o incluidos en el SDK.
+
+4. Uso del SDK por Usted
+
+4.1 Google está de acuerdo en que no obtiene ningún derecho, título o interés de usted (o sus licenciantes) conforme a este Acuerdo de licencia o respecto a las aplicaciones de software que usted desarrolla con el SDK, incluyendo cualquier derecho de propiedad intelectual que actúen sobre esas aplicaciones.
+
+4.2 Usted se compromete a utilizar el SDK y escribir aplicaciones exclusivamente con los fines estipulados en (a) el presente Contrato de licencia y (b) cualquier ley o regulación aplicable o las prácticas o directrices aceptadas en las jurisdicciones pertinentes (incluyendo las leyes relativas a la exportación de datos o software hacia y desde los Estados Unidos u otros países relevantes).
+
+4.3 Usted acepta que si utiliza el SDK para desarrollar aplicaciones para los usuarios públicos en general, protegerá los derechos de privacidad y legales de esos usuarios. Si los usuarios le proporcionan los nombres de usuario, contraseñas u otra información de acceso o información personal, usted debe hacer que los usuarios estén conscientes de que la información estará disponible para su aplicación, y usted debe proporcionar aviso de privacidad legalmente adecuada y protección para los usuarios. Si la aplicación almacena información personal o confidencial proporcionada por los usuarios, debe hacerlo de forma segura. Si el usuario proporciona su aplicación con información de la Cuenta de Google, su aplicación sólo podrán utilizar esa información para acceder a la cuenta de Google del usuario cuando, y para los fines limitados para los que el usuario le ha dado permiso para hacerlo.
+
+4.4 Usted se compromete a no involucrarse en ninguna actividad con el SDK, incluyendo el desarrollo o la distribución de una aplicación, que interfiere con, interrumpe, daña, o accede de forma no autorizada a los servidores, redes, u otros bienes o servicios de cualquier tercero, incluyendo, pero no limitado a, Google o cualquier operador de telefonía móvil de comunicaciones.
+
+4.5 Usted acepta que es el único responsable (y que Google no tiene ninguna responsabilidad hacia usted o hacia cualquier tercero) de cualquier dato, contenido o recursos que cree, transmita o muestre a través de la plataforma Android y / o aplicaciones para la plataforma Android, y ​​por las consecuencias de sus acciones (incluyendo cualquier pérdida o daño que pueda sufrir Google) por ello.
+
+4.6 Usted acepta que es el único responsable (y que Google no tiene ninguna responsabilidad hacia usted o hacia cualquier tercero) de cualquier incumplimiento de sus obligaciones en virtud de este Contrato de Licencia, cualquier contrato aplicable tercero o los Términos de Servicio, o cualquier ley aplicable o regulación, y de las consecuencias (incluyendo cualquier pérdida o daño que Google o cualquier tercero pueda sufrir) de dicho incumplimiento.
+
+5. Sus Credenciales de Desarrollador
+
+5.1 Usted acepta que es responsable de mantener la confidencialidad de las credenciales de desarrollo que se emitan a usted por Google o que usted puede elegir y que usted será el único responsable de todas las aplicaciones que se desarrollan bajo sus credenciales de desarrollador.
+
+6. Privacidad e Información
+
+6.1 Con el fin de innovar y mejorar continuamente el SDK, Google puede recopilar algunas estadísticas de uso del software que incluyen pero no se limitan a un único identificador, dirección IP asociada, el número de versión del software y la información sobre las herramientas y / o servicios en el SDK que se están utilizando y cómo se utilizan. Antes de que esta información se recoja, el SDK se lo notificará y solicitaremos su consentimiento. Si usted niega su consentimiento, la información no se recopilará.
+
+6.2 Los datos recopilados son examinados en conjunto para mejorar el SDK y se mantiene de acuerdo con la Política de privacidad de Google.
+
+7. Aplicaciones de Terceros para la Plataforma Android
+
+7.1 Si usted utiliza el SDK para ejecutar aplicaciones desarrolladas por terceros o que accesa datos, contenido o recursos suministrados por un tercero, usted acepta que Google no es responsable de esas aplicaciones, datos, contenidos o recursos. Usted entiende que toda la información, contenido o recursos de que se pueda acceder a través de este tipo de aplicaciones de terceros son de exclusiva responsabilidad de la persona de la que provienen y que Google no se hace responsable de ninguna pérdida o daño que puede sufrir como resultado del uso o el acceso a alguna de esas aplicaciones de terceros, datos, contenidos o recursos.
+
+7.2 Usted debe ser consciente de que los datos, el contenido y los recursos que se le presentan a través de una aplicación de terceros puede estar protegida por derechos de propiedad intelectual que son propiedad de los proveedores (o por otras personas o empresas en su nombre). Usted no puede modificar, alquilar, arrendar, prestar, vender, distribuir o crear trabajos derivados basados ​​en estos datos, contenidos o recursos (ya sea en su totalidad o en parte) a menos que haya sido específicamente permisado para ello por los titulares correspondientes.
+
+7.3 Usted reconoce que el uso de este tipo de aplicaciones de terceros, datos, contenidos o recursos pueden estar sujetos a términos separados entre usted y el tercero en cuestión. En ese caso, este acuerdo de licencia no afecta a su relación jurídica con estos terceros.
+
+8. Utilizando los APIs de Android
+
+8.1 APIs de Google Data
+
+8.1.1 Si utiliza la API para recuperar datos de Google, usted reconoce que los datos pueden estar protegidos por derechos de propiedad intelectual que son propiedad de Google o las partes que proporcionen los datos (o por otras personas o empresas en su nombre). El uso de cualquier API, puede estar sujeto a Términos de Servicio adicionales. Usted no puede modificar, alquilar, arrendar, prestar, vender, distribuir o crear trabajos derivados basados ​​en esta información (ya sea en su totalidad o en parte) a menos que esté permitido por los Términos de Servicio correspondientes.
+
+8.1.2 Si utiliza cualquier API para recuperar datos de un usuario de Google, usted reconoce y acepta que será recuperar datos solamente con el consentimiento expreso del usuario, y sólo cuando, y para los fines limitados para los que el usuario le ha dado permiso para hacerlo.
+
+9. Terminación de este Acuerdo de Licencia
+
+9.1 Este Acuerdo de licencia se seguirá aplicando hasta que sea terminado por usted o Google como se define a continuación.
+
+9.2 Si usted quiere dar por terminado este Acuerdo de Licencia, puede hacerlo dejando de usar el SDK y cualquier credencial de desarrollador relevante.
+
+9.3 Google puede dar por terminado en cualquier momento este Acuerdo de Licencia si usted:
+
+(A) Ud. incumple cualquier disposición de este Acuerdo de licencia; o
+
+(B) Google está obligado a hacerlo por ley, o
+
+(C) el socio con el que Google ofreció ciertas partes del SDK (como APIs) a usted ha puesto fin a su relación con Google o ha dejado de proporcionarle ciertas partes del SDK a usted, o
+
+(D) Google decide dejar de prestar el SDK o ciertas partes del SDK para los usuarios en el país en el que usted reside o del que se utiliza el servicio, o la prestación del SDK o ciertos servicios SDK a usted por Google está , a la sola discreción de Google, no sea comercialmente viable.
+
+9.4 Cuando este acuerdo de licencia llega a su fin, todos los derechos legales, obligaciones y responsabilidades de los  que usted y Google se hayan beneficiado, estado sujeto a (o que se han acumulado durante la vigencia de este Contrato de Licencia) o que se expresan continuar indefinidamente quedarán inalterados, y las disposiciones del párrafo 14.7 seguirán aplicándose a tales derechos, obligaciones y responsabilidades con carácter indefinido.
+
+10. RENUNCIA DE GARANTÍAS
+
+10.1 USTED ENTIENDE EXPRESAMENTE Y ACEPTA QUE EL USO DE LA SDK ES BAJO SU PROPIO RIESGO Y QUE EL SDK SE ENTREGA "TAL CUAL" Y "SEGÚN DISPONIBILIDAD", SIN GARANTÍA DE NINGÚN TIPO POR PARTE DE GOOGLE.
+
+10.2 SU USO DEL SDK Y CUALQUIER MATERIAL DESCARGADO U OBTENIDO A TRAVÉS DEL USO DE LA SDK ES A SU CUENTA Y RIESGO Y USTED ES EL ÚNICO RESPONSABLE DE CUALQUIER DAÑO A SU SISTEMA INFORMÁTICO O DE OTRO DISPOSITIVO O PÉRDIDA DE DATOS QUE RESULTE DE DICHO USO .
+
+10.3 GOOGLE RENUNCIA EXPRESAMENTE A TODAS LAS GARANTÍAS Y CONDICIONES DE CUALQUIER TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, PERO NO LIMITADO A LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+11. LIMITACIÓN DE LA RESPONSABILIDAD
+
+11.1 USTED ENTIENDE Y ACEPTA EXPRESAMENTE QUE GOOGLE, SUS SUBSIDIARIAS Y FILIALES Y SUS PROVEEDORES DE LICENCIAS NO SERÁN RESPONSABLES ANTE USTED BAJO CUALQUIER TEORÍA DE LA RESPONSABILIDAD POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTAL, ESPECIAL, DERIVADO O EJEMPLAR EN QUE SE PUEDA INCURRIR, INCLUYENDO CUALQUIER PÉRDIDA DE DATOS, YA SEA O NO QUE GOOGLE O SUS REPRESENTANTES HAYAN SIDO ADVERTIDOS O DEBERÍAN HABER ESTADO CONSCIENTES DE LA POSIBILIDAD DE QUE DICHAS PÉRDIDAS PUDIESEN OCURRIR.
+
+12. indemnización
+
+12.1 En la medida máxima permitida por la ley, usted acepta defender, indemnizar y mantener indemne a Google, sus afiliados y sus respectivos directores, funcionarios, empleados y agentes de y contra cualquier y todo reclamo, acción, demanda o procedimiento, así como cualquier y todas las pérdidas, responsabilidades, daños, costos y gastos (incluyendo honorarios razonables de abogados) que surjan o se acumulen a partir de (a) su uso del SDK, (b) cualquier aplicación que usted desarrolle en el SDK que infrinja cualquier derecho de autor, marca registrada, secreto, imagen comercial, patente u otro derecho de propiedad intelectual de cualquier persona o difame a cualquier persona o viole sus derechos de publicidad o privacidad, y (c) cualquier incumplimiento por usted con este Acuerdo de Licencia.
+
+13. Cambios al Acuerdo de Licencia
+
+13.1 Google podrá incorporar cambios en el contrato de licencia a medida que distribuye nuevas versiones del SDK. Cuando se realicen estos cambios, Google hará disponible una nueva versión del Acuerdo de licencia  en la página web donde el SDK esté disponible.
+
+14. Condiciones Legales Generales
+
+14.1 El presente Acuerdo de Licencia constituye el acuerdo legal completo entre usted y Google, rigen el uso del SDK (excluyendo los servicios que Google le ofrezca en virtud de un acuerdo escrito por separado), y sustituyen cualquier acuerdo anterior entre usted y Google en relación con el SDK.
+
+14.2 Usted acepta que, si Google no ejerce ningún derecho legal ni ningún desagravio estipulado en este Acuerdo de Licencia (o los que Google pueda beneficiarse en virtud de alguna ley aplicable), no se tomará como una renuncia formal de los derechos de Google y que dichos derechos o acciones seguirán estando disponibles para Google.
+
+14.3 Si cualquier tribunal que tenga jurisdicción para decidir sobre este asunto dictamina que alguna disposición de este Acuerdo de Licencia es inválida, dicha disposición será eliminada de este Acuerdo de Licencia, sin afectar el resto de este Acuerdo de Licencia. Las demás disposiciones de este Acuerdo de Licencia seguirá siendo válidas y aplicables.
+
+14.4 Usted reconoce y acepta que todos los miembros del grupo de compañías del que Google es la empresa matriz será un tercero beneficiario de este Acuerdo de Licencia y que esas otras compañías tendrán derecho a hacer valer directamente, y depender de las disposiciones de este Acuerdo de Licencia que confiere un beneficio (o derechos a su favor). Aparte de esto, ninguna otra persona o empresa será un tercero beneficiario de este Acuerdo de Licencia.
+
+14.5 RESTRICCIONES A LA EXPORTACIÓN. El SDK ESTÁ SUJETO A LAS LEYES Y REGULACIONES DE EXPORTACIÓN DE LOS ESTADOS UNIDOS. USTED DEBE CUMPLIR CON TODAS LAS LEYES DE EXPORTACIÓN NACIONALES E INTERNACIONALES Y REGLAMENTOS QUE APLICAN A LA SDK. ESTAS LEYES INCLUYEN RESTRICCIONES SOBRE DESTINOS, USUARIOS FINALES Y USO FINAL.
+
+14.6 Los derechos concedidos en este Acuerdo de Licencia no podrán ser cedidos o transferidos por usted o Google sin la aprobación previa por escrito de la otra parte. Ni usted ni Google podrán delegar sus responsabilidades u obligaciones bajo este Acuerdo de Licencia sin el consentimiento previo por escrito de la otra parte.
+
+14.7 El presente Acuerdo de Licencia, y su relación con Google en virtud de este Acuerdo de licencia se regirá por las leyes del Estado de California, sin consideración a su conflicto de disposiciones legales. Usted y Google aceptan someterse a la jurisdicción exclusiva de los tribunales ubicados dentro del condado de Santa Clara, California, para resolver cualquier asunto legal derivado de este Acuerdo de Licencia. No obstante lo anterior, Ud. acepta que Google estará autorizado a solicitar medidas cautelares (o un tipo equivalente de medida legal urgente) en cualquier jurisdicción.
+
+10 de abril 2009
+    

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Síragon AOSU is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Síragon AOSU is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Síragon AOSU. If not, see <http://www.gnu.org/licenses/>.
+-->
+<dpinst>
+	<scanHardware/>
+	<search>
+		<subDirectory>driver</subDirectory>
+	</search>
+	<forceIfDriverIsNotBetter/>
+	<language code="0x0C0A">
+		<dpinstTitle>Instalador de controladores para la Tableta TB-7000</dpinstTitle>
+		<welcomeTitle>¡Bienvenido al asistente de instalación de los controladores!</welcomeTitle>
+		<welcomeIntro>Este asistente lo llevará paso a paso en la instalación. Es necesario activar las opciones de depuración de su dispositivo. Este instalador fue creado en el Departamento de Investigación y Desarrollo de Síragon.</welcomeIntro>
+		<eulaHeaderTitle>Licencia de usuario final</eulaHeaderTitle>
+		<eulaYesButton>Acepto la licencia</eulaYesButton>
+		<eulaNoButton>No acepto la licencia</eulaNoButton>
+		<installHeaderTitle>Instalando el software de su dispositivo móvil...</installHeaderTitle>
+		<finishTitle>¡Felicitaciones! Has finalizado la instalación de tu dispositivo móvil.</finishTitle>
+		<finishText>Disfruta de tu tableta.</finishText>
+		<eula type="txt" path="es-es/eula.txt"/>
+	</language>
+	<language code="0x0409">
+		<dpinstTitle>Driver Installation for TB-7000</dpinstTitle>
+		<welcomeTitle>Welcome to the Install Wizard for drivers!</welcomeTitle>
+		<welcomeIntro>This wizard will take you step by step through the installation. You must enable debug options of your device. This installer was created in the Department of Research and Development Síragon.</welcomeIntro>
+		<eulaHeaderTitle>End User License</eulaHeaderTitle>
+		<eulaYesButton>I agree the License Terms</eulaYesButton>
+		<eulaNoButton>I don't accept the License Terms</eulaNoButton>
+		<installHeaderTitle>Installing the software from your mobile device...</installHeaderTitle>
+		<finishTitle>Congratulations! You have completed the installation of your mobile device.</finishTitle>
+		<finishText>Enjoy your tablet.</finishText>
+		<eula type="txt" path="en-us/eula.txt"/>
+	</language>
+	<!-- Arabic
+	<language code="0x0401">
+	</language>-->
+	<!-- Portuguese Brasil 
+	<language code="0x0416">
+	</language>-->
+	<!-- Italian 
+	<language code="0x0410">
+	</language>-->
+	<icon>images/installer.ico</icon>
+	<headerPath>images/header.bmp</headerPath>
+	<watermarkPath>images/toaster.bmp</watermarkPath>
+</dpinst>
