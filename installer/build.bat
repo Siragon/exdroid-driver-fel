@@ -13,6 +13,6 @@ REM  You should have received a copy of the GNU General Public License
 REM  along with Síragon AOSU. If not, see <http://www.gnu.org/licenses/>. 
 
 del TB-7000_FEL.7z
-plugins\7z.exe a TB-7000_FEL.7z ..\* -x!installer -x!.git -x!images\Thumbs.db -x!*\dpinst.properties -x!*\inf.properties -x!*\installer.properties -x!*\notice.txt -x!.gitignore
+plugins\7z.exe a TB-7000_FEL.7z ..\* -x!installer -x!.git -x!images\Thumbs.db -x!images\driver.png -x!images\header.png -x!images\siragon.xmp -x!images\toaster.fw.png -x!*\dpinst.properties -x!*\inf.properties -x!*\installer.properties -x!*\notice.txt -x!.gitignore -x!.gitattributes -x!.tx
 "%ProgramFiles(x86)%\NSIS\Unicode\makensis.exe" installer.nsi
 @pause
